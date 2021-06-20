@@ -1,7 +1,7 @@
 ### Hello Github Visitors 👋
 
 <h1 align = "center"> Namaste, I'm Gita Khanal :woman_technologist: </h1>
-`gita`
+```gita```
 
 Here are some ideas to get you started:
 
