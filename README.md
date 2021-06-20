@@ -1,9 +1,12 @@
 ### Hello Github Visitors 👋
 
 <h1 align = "center"> Namaste, I'm Gita Khanal :woman_technologist: </h1>
-``` git add skill.dart```
-``` git commit -m "make small to big projects" ```
-``` git push origin software-developer```
+```github
+git add skill.dart```
+``` github
+git commit -m "make small to big projects" ```
+``` github
+git push origin software-developer```
 
 Here are some ideas to get you started:
 
