@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1 align = "center"> Gita Khanal </h1>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter Projects.
