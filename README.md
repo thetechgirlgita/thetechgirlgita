@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align = "center"> Gita Khanal </h1>
+<h1 align = "center"> Namaste, I'm Gita Khanal :<3 </h1>
 
 Here are some ideas to get you started:
 
