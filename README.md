@@ -1,8 +1,8 @@
 ### Hello Github Visitors 👋
 
 <h1 align = "center"> Namaste, I'm Gita Khanal :woman_technologist: </h1>
-```github
-git add skill.dart```
+`github
+git add skill.dart`
 ``` github
 git commit -m "make small to big projects" ```
 ``` github
