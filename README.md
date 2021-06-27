@@ -3,7 +3,7 @@
 <h1 align = "center"> Namaste, I'm Gita Khanal :woman_technologist: </h1>
 
 
- <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="400">
+ <img src= "https://media.tenor.com/images/d531297d9c0ce9610723142362fe64ca/tenor.gif" width="400">
 
 
 Here are some ideas to get you started:
