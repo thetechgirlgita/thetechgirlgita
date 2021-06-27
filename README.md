@@ -3,7 +3,7 @@
 <h1 align = "center"> Namaste, I'm Gita Khanal :woman_technologist: </h1>
 
 
- <img src= "https://drive.google.com/drive/u/0/my-drive" width="400">
+ <img src=https://drive.google.com/file/d/1RdnVMXZpx8i2Q1Q-6Jm-SuJ5dBhHHm2t/view" width="400">
 
 
 Here are some ideas to get you started:
