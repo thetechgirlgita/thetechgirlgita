@@ -3,6 +3,7 @@
 <h1 align = "center"> Namaste, I'm Gita Khanal :woman_technologist: </h1>
 
 <code> printf("Hello, Everyone"); </code>
+<thetechgirlgita@gmail.com>
 
 
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
