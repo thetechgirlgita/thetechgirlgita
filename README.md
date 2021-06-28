@@ -1,7 +1,7 @@
 ### Hello Github Visitors 👋
 
 <h1 align = "center"> Namaste, I'm Gita Khanal :woman_technologist: </h1>
-`git commit -m" Hello Everyone"`
+`nano`
 
 
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
