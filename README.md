@@ -21,3 +21,7 @@ Here are some ideas to get you started:
     - Travelling(India(Punjab, Jammu Kashmir, Himachal Pradesh), Nepal(Dang, Nepalgunj, Butwal, Kathmandu, Pokhara, Tanahu, Gorkha, Argakhachi, Pyuthan, Lumbini, Palpa, Patan))
     - Singing(Bollywood sometimes)
 
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=thetechgirlgita&show_icons=true&locale=en" alt="thetechgirlgita" /></p>
