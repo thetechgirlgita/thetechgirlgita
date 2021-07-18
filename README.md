@@ -18,12 +18,12 @@ Here are some ideas to get you started:
     - Travelling(India(Punjab, Jammu Kashmir, Himachal Pradesh), Nepal(Dang, Nepalgunj, Butwal, Kathmandu, Pokhara, Tanahu, Gorkha, Argakhachi, Pyuthan, Lumbini, Palpa, Patan))
     - Singing(Bollywood sometimes)
     
+<h2> You can find me here </h2>
     
-    <h2> You can find me here </h2>
-    
-    [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/thetechgirlgita/))](https://www.linkedin.com/in/thetechgirlgita/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/thetechgirlgita/))](https://www.linkedin.com/in/thetechgirlgita/)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?logo=Twitter&link=(https://twitter.com/thetechgirlgita))](https://twitter.com/thetechgirlgita)
 [![Dribble](https://img.shields.io/badge/-Dribbble-222222?logo=Dribbble&link=(https://dribbble.com/thetechgirlgita))](https://dribbble.com/thetechgirlgita)
+[![Medium](https://img.shields.io/badge/-Medium-222222?logo=Medium&link=(https://Medium.com/thetechgirlgita))](https://Medium.com/thetechgirlgita)
 
 
 
