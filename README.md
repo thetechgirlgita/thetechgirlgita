@@ -2,9 +2,6 @@
 
 <h1 align = "center"> Namaste, I'm Gita Khanal :woman_technologist: </h1>
 
-<code> printf("Hello, Everyone"); </code>
-<thetechgirlgita@gmail.com>
-
 
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
 
@@ -20,6 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
     - Travelling(India(Punjab, Jammu Kashmir, Himachal Pradesh), Nepal(Dang, Nepalgunj, Butwal, Kathmandu, Pokhara, Tanahu, Gorkha, Argakhachi, Pyuthan, Lumbini, Palpa, Patan))
     - Singing(Bollywood sometimes)
+    
+    
+    <h2> You can find me here </h2>
+    
+    [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/thetechgirlgita/))](https://www.linkedin.com/in/thetechgirlgita/)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?logo=Twitter&link=(https://twitter.com/thetechgirlgita))](https://twitter.com/thetechgirlgita)
+[![Dribble](https://img.shields.io/badge/-Dribbble-222222?logo=Dribbble&link=(https://dribbble.com/thetechgirlgita))](https://dribbble.com/thetechgirlgita)
 
 
 
