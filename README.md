@@ -8,7 +8,6 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter Projects.
 - 🌱 I’m currently learning AWS.
