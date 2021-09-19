@@ -17,6 +17,7 @@
 - ⚡ Fun fact: 
     - Travelling(India(Punjab, Jammu Kashmir, Himachal Pradesh), Nepal(Dang, Nepalgunj, Butwal, Kathmandu, Pokhara, Tanahu, Gorkha, Argakhachi, Pyuthan, Lumbini, Palpa, Patan))
     - Singing(Bollywood sometimes)
+    - Software Developer without a bachelors degree.
     
 <h2> You can find me here </h2>
     
