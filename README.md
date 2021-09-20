@@ -16,7 +16,7 @@
 - 😄 Pronouns: Techy(20%), Geet(80%)
 - ⚡ Fun fact: 
     - Travelling(India(Punjab, Jammu Kashmir, Himachal Pradesh), Nepal(Dang, Nepalgunj, Butwal, Kathmandu, Pokhara, Tanahu, Gorkha, Argakhachi, Pyuthan, Lumbini, Palpa))
-    - Singing(Bollywood sometimes)
+    - Singing(Bollywood sometimes) with a bad voice
     - Software Developer without a bachelors degree.
     
 <h2> You can find me here </h2>
