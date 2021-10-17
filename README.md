@@ -24,6 +24,7 @@
     - Software Developer without a bachelors degree.
     - Introvert phase but extremely funny personality.
     
+    
 <h2> You can find me here </h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/thetechgirlgita/))](https://www.linkedin.com/in/thetechgirlgita/)
