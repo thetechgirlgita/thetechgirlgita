@@ -25,7 +25,6 @@
     - Introvert phase but extremely funny personality.
     
     
-   
     
 <h2> You can find me here </h2>
 
