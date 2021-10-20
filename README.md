@@ -2,7 +2,6 @@
 
 ## Welcome to my GitHub Profile  
 
-
 <h1 align = "center"> Namaste, I'm Gita Khanal :woman_technologist: </h1>
 
 
