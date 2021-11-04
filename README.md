@@ -18,6 +18,7 @@
 - 📫 How to reach me:  @thetechgirlgita(Linkedin, Twitter, Medium, Youtube and Facebook)
 - 😄 Pronouns: Techy(20%), Geet(80%)
 
+
 - ⚡ Fun fact :
     - Travelling(India(Punjab, Jammu Kashmir, Himachal Pradesh), Nepal(Dang, Nepalgunj, Butwal, Kathmandu, Pokhara, Tanahu, Gorkha, Argakhachi, Pyuthan, Lumbini, Palpa))
     - Singing(Bollywood sometimes) with a bad voice.
