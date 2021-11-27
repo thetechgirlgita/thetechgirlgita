@@ -22,7 +22,8 @@
     - Travelling(India(Punjab, Jammu Kashmir, Himachal Pradesh), Nepal(Dang, Nepalgunj, Butwal, Kathmandu, Pokhara, Tanahu, Gorkha, Argakhachi, Pyuthan, Lumbini, Palpa))
     - Singing(Bollywood sometimes) with a bad voice.
     - Software Developer without a bachelors degree.
-    - Introvert phase but extremely funny personality.
+    - Introvert personality but extremely funny.
+    
     
 <h2> You can find me here </h2>
 
