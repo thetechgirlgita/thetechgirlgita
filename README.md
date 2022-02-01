@@ -2,6 +2,7 @@
 
 ## Welcome to my GitHub Profile
 
+
 <h1 align = "center"> Namaste, I'm Gita Khanal :woman_technologist: </h1>
 
 
@@ -11,6 +12,7 @@
 
 
 - 🔭 I’m currently working on Flutter Projects.
+- Working on flutter animation, builkding games.
 - 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Flutter Development.
