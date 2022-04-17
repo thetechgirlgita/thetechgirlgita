@@ -25,7 +25,6 @@
     - Love to solve errors in code
     
     
-    
 <h2> You can find me here </h2>
 
 
