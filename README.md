@@ -16,12 +16,12 @@
 - 😄 Pronouns: Techy(20%), Geet(80%)
 - ⚡ Fun fact about me 💯true
     - Travelling(India(Punjab, Jammu Kashmir, Himachal Pradesh), Nepal(Dang, Nepalgunj, Butwal, Kathmandu, Pokhara, Tanahu, Gorkha, Argakhachi, Pyuthan, Lumbini, Palpa))
+    
     - Singing(Bollywood sometimes) with a bad voice.
     - Software Developer without a bachelors degree.
     - Self taught programmer
     - Introvert personality but extremely funny.
-    - Love to solve errors in code
-    
+    - Love to solve errors in code  
     
 <h2> You can find me here </h2>
 
