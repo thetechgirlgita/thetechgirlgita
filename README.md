@@ -3,6 +3,7 @@
 ## Welcome to my GitHub Profile
 
 
+
 <h1 align = "center"> Namaste, I'm Gita Khanal aka thetechgirlgita :woman_technologist: </h1>
 
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
