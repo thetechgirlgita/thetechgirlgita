@@ -9,8 +9,6 @@
  
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
 
-
-
 - 🔭 I’m currently working on Flutter Projects.
 - Working on flutter animation, builkding games.
 - 🌱 I’m currently learning AWS.
@@ -45,3 +43,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=thetechgirlgita&show_icons=true&locale=en" alt="thetechgirlgita" /></p>
+
+
+
+
+
