@@ -10,7 +10,7 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
 
 - 🔭 I’m currently working on Flutter Projects.
-- Working on flutter animation, builkding games.
+- Working on flutter animation, building games.
 - 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Flutter Development.
