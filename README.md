@@ -25,6 +25,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?logo=Twitter&link=(https://twitter.com/thetechgirlgita))](https://twitter.com/thetechgirlgita)
 [![Dribble](https://img.shields.io/badge/-Dribbble-222222?logo=Dribbble&link=(https://dribbble.com/thetechgirlgita))](https://dribbble.com/thetechgirlgita)
 [![Medium](https://img.shields.io/badge/-Medium-222222?logo=Medium&link=(https://thetechgirlgita.medium.com/))](https://thetechgirlgita.medium.com/)
+[![YouTube](https://img.shields.io/badge/-YouTube-222222?logo=YouTube&link=([https://thetechgirlgita.medium.com](https://www.youtube.com/channel/UCIVTt5a_srQXQhxpl_KxAVA)/))](https://thetechgirlgita.YouTube.com/)
 
 <h2> My Skills and tools </h2>
 
