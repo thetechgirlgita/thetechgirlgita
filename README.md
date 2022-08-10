@@ -1,19 +1,19 @@
 ## Welcome to my GitHub Profile
 <h1 align = "center"> Namaste, I'm Gita Khanal  :woman_technologist: </h1>
 
+
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
  
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
 
 - 🔭 I’m currently working on Flutter Projects.
-- Working on flutter animation, building games.
-- 🌱 I’m currently learning AWS.
+- Working on flutter animation, Rest APIs.
+- 🌱 I’m currently learning Flutter and Json.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Flutter Development.
 - 📫 How to reach me:  @thetechgirlgita(Linkedin, Twitter, Medium, Youtube and Facebook)
 - 😄 Pronouns: Techy(20%), Geet(80%)
-- ⚡ Fun fact about me 💯true
-    - Travelling
+- ⚡ Fact about me 💯true
     - Software Developer without a bachelors degree.
     - Self taught programmer
     - Introvert personality but extremely funny.
