@@ -36,4 +36,4 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=thetechgirlgita&show_icons=true&locale=en" alt="thetechgirlgita" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thetechgirlgita&show_icons=true&locale=en" alt="thetechgirlgita" /></p>
