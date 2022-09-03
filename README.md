@@ -2,10 +2,6 @@
 <h1 align = "center"> Namaste, I'm Gita Khanal  :woman_technologist: </h1>
 
 
-
-
-
-
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
 
@@ -21,6 +17,7 @@
     - Self taught programmer
     - Introvert personality but extremely funny.
     - Love to solve errors in code.
+    - Foody
 
 <h2> You can find me here </h2>
 
