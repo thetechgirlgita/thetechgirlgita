@@ -3,7 +3,7 @@
 
 
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightpink&style=plastic" alt="thetechgirlgita" /> </p>
 
 - 🔭 I’m currently working on Flutter Projects.
 - Working on flutter animation, Rest APIs.
