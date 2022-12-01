@@ -1,5 +1,5 @@
 
-<h1 align = "center"> Namaste, I'm Gita Khanal  :woman_technologist: </h1>
+<h1 align = "center"> Namaste, I'm Gita   :woman_technologist: </h1>
 
 
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
