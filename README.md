@@ -13,9 +13,9 @@
 - 📫 How to reach me:  @thetechgirlgita(Linkedin, Twitter, Medium, Youtube and Facebook)
 - 😄 Pronouns: Techy(20%), Geet(80%)
 - ⚡ Fact about me 💯true
-    - Software Developer without a bachelors degree.
-    - Self taught programmer
-    - Introvert personality but extremely funny.
+    - Software Developer without a bachelor's degree.
+    - Self-taught programmer
+    - Introverted personality but extremely funny.
     - Love to solve errors in code.
     - Foody
 
