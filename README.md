@@ -13,7 +13,6 @@
 - ⚡ Fact about me 💯true
     - Software Developer without a bachelor's degree.
     - Self-taught programmer
-    - Introverted personality but extremely funny.
     - Love to solve errors in code.
     - Foody
 
