@@ -10,11 +10,7 @@
 - 💬 Ask me about Flutter Development.
 - 📫 How to reach me:  @thetechgirlgita(Linkedin, Twitter, Medium, Youtube and Facebook)
 - 😄 Pronouns: Techy(20%), Geet(80%)
-- ⚡ Fact about me 💯true
-    - Software Developer without a bachelor's degree.
-    - Self-taught programmer
-    - Love to solve errors in code.
-    - Foody
+
 
 <h2> You can find me here </h2>
 
