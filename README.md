@@ -3,9 +3,9 @@
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
 
-- 🔭 I’m currently working on Flutter Projects.
-- Working on flutter animation and the rest of the APIs.
-- 🌱 I’m currently learning Flutter and Json.
+- 🔭 I’m currently studying Computer programming diploma in Canada. 
+- Working on Flutter, and web application projects.
+- 🌱 I’m currently into Machine learning.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Flutter Development.
 - 📫 How to reach me:  @thetechgirlgita(Linkedin, Twitter, Medium, Youtube and Facebook)
