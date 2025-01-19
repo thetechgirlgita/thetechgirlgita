@@ -1,5 +1,5 @@
 
-<h1 align = "center"> Hola!, I'm Gita   :woman_technologist: </h1>
+<h1 align = "center"> Hola!, je m'appelle Gita   :woman_technologist: </h1>
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
 
