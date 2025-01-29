@@ -8,7 +8,7 @@
 - 🌱 I’m currently into Machine learning.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Flutter Development.
-- 📫 How to reach me:  @thetechgirlgita(Linkedin, Twitter, Medium, Youtube and Facebook)
+- 📫 How to reach me:  @thetechgirlgita(Linkedin, Twitter, Medium, and  Youtube)
 
 
 
