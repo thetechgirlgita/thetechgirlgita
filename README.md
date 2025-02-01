@@ -6,7 +6,6 @@
 - 🔭 I’m currently studying Computer Programming Diploma Certificate in Canada. 
 -  Working on Flutter, and web application projects.
 - 🌱 I’m currently into Machine learning.
-- 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Flutter Development and Web Development.
 - 📫 How to reach me:  @thetechgirlgita(Linkedin, Twitter, Medium, and  Youtube)
 
