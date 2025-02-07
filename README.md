@@ -3,7 +3,7 @@
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
 
-- 🔭 I’m currently studying Computer Programming Diploma Certificate in Canada. 
+- 🔭 I’m currently studying for a Computer Programming Diploma Certificate in Canada. 
 -  Working on Flutter, and web application projects.
 - 🌱 I’m currently into Machine learning.
 - 💬 Ask me about Flutter and Web Development.
