@@ -9,7 +9,6 @@
 - 💬 Ask me about Flutter and Web Development.
 - 📫 How to reach me:  @thetechgirlgita(Linkedin, Twitter, Medium, and  Youtube)
 
-
 <h2> You can find me here </h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/thetechgirlgita/))](https://www.linkedin.com/in/thetechgirlgita/)
@@ -18,7 +17,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-222222?logo=Medium&link=(https://thetechgirlgita.medium.com/))](https://thetechgirlgita.medium.com/)
 [![YouTube](https://img.shields.io/badge/-YouTube-222222?logo=YouTube&link=([https://thetechgirlgita.medium.com](https://www.youtube.com/channel/UCIVTt5a_srQXQhxpl_KxAVA)/))](https://thetechgirlgita.YouTube.com/)
 
-<h2> My Skills on tools </h2>
+<h2> My Skills </h2>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
