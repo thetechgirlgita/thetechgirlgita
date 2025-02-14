@@ -4,7 +4,7 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
 
 - 🔭 I’m studying for a Computer Programming Diploma Certificate in Canada. 
--  Working on Flutter, and web application projects.
+- 👩‍💻 Working on Flutter, and web application projects.
 - 🌱 I’m currently into Machine learning.
 - 💬 Ask me about Flutter and Web Development.
 - 📫 How to reach me:  @thetechgirlgita(Linkedin, Twitter, Medium, and  Youtube)
