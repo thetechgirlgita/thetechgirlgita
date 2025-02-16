@@ -1,5 +1,5 @@
 
-<h1 align = "center"> Salut! je m'appelle Gita   :woman_technologist: </h1>
+<h1 align = "center"> Salut!  je m'appelle Gita   :woman_technologist: </h1>
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="800"  align = 'center'> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
 
@@ -27,3 +27,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thetechgirlgita&show_icons=true&locale=en" alt="thetechgirlgita" /></p>
+
+
+<h2 align = "center"> Bonjour </h2>
