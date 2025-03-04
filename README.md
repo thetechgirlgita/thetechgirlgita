@@ -10,7 +10,7 @@
 - 📫 How to reach me:  @thetechgirlgita(Linkedin, Twitter, Medium, and  Youtube)
 
 
-<h2> You can find me here </h2>
+<h2> Connect here</h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/thetechgirlgita/))](https://www.linkedin.com/in/thetechgirlgita/)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?logo=Twitter&link=(https://twitter.com/thetechgirlgita))](https://twitter.com/thetechgirlgita)
