@@ -3,7 +3,7 @@
  <img src="https://media.giphy.com/media/l0Iy88cWKqBeBN92o/giphy.gif"  width="700"  align = 'center'> 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=thetechgirlgita&label=Views&color=brightgreen&style=plastic" alt="thetechgirlgita" /> </p>
 
-- 🔭 Graduated in Computer Programming Diploma. 
+- 🔭 Graduated with Computer Programming Diploma. 
 - 👩‍💻 I am working on web application projects.
 - 🌱 I’m currently into WEB development Bootcamp
 - 💬 Ask me about Flutter and Web Development.
